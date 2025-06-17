@@ -12,3 +12,6 @@ language interaction with documents.​
 Develop an AI-powered application that allows users to upload a PDF document and ask questions
 based on its content. The system should intelligently retrieve and generate accurate answers using
 Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) techniques.
+
+
+Grok API = https://console.groq.com/
